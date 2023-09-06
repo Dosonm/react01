@@ -8,6 +8,7 @@
 }
 
 .description {
+  flex-direction: column;
   display: inherit;
   justify-content: inherit;
   align-items: inherit;

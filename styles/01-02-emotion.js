@@ -1,9 +1,12 @@
 import styled from '@emotion/styled'
 
 export const MyEmail = styled.span`
-    color:red;
+    color:blue;
+    font-size=25px;
 `
-export const myemailinput = styled.input`
+    
+
+export const MyemaiInput = styled.input`
     border-color: red;
 
 `

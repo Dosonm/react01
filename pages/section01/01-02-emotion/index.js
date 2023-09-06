@@ -1,4 +1,4 @@
- import {myemail,myemailinput} from '../../../styles/01-02-emotion'
+ import {MyEmail,MyemaiInput} from '../../../styles/01-02-emotion'
  
  export default function EmotionPage(){
 
@@ -7,8 +7,8 @@
     return(
         //여기는 html 쓰는곳
         <div>
-            <myemail>이메일: </myemail>
-            <myemailinput type='text'></myemailinput>
+            <MyEmail>이메일: </MyEmail>
+            <MyemaiInput type='text'></MyemaiInput>
             <button>클릭하세요</button>
             <img src="/next.svg"></img>
         </div>
